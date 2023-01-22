@@ -237,14 +237,12 @@ PRODUCT_PACKAGES += \
     libconfigdb \
     libcpion \
     libdataitems \
-    libdisplayqos \
     libdpmqmihal \
     libdrmfs \
     libdrmtime \
     libdsi_netctrl \
     libgdtap \
     libhdcpsrm \
-    libhdr_tm \
     libhexagon_nn_stub \
     libhta_hexagon_runtime \
     libizat_client_api \
@@ -283,7 +281,6 @@ PRODUCT_PACKAGES += \
     libqdp \
     libqisl \
     libqrtr \
-    libqseed3 \
     libqsocket \
     libqtikeymaster4 \
     librcc \
@@ -291,18 +288,11 @@ PRODUCT_PACKAGES += \
     libril-qc-logger \
     librilqmiservices \
     librpmb \
-    libsdedrm \
-    libsdm-color \
-    libsdm-colormgr-algo \
-    libsdm-diag \
-    libsdm-disp-vndapis \
-    libsdmextension \
     libsdsprpc \
     libsoc_helper \
     libssd \
     libsystem_health_mon \
     libtime_genoff \
-    libtinyxml2_1 \
     libtrustedapploader \
     libwms \
     libwqe \
